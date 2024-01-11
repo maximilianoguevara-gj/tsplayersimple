@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import VideoPlayer from './VideoPlayer'; // Import the VideoPlayer component
+import VideoPlayer from './videoplayer/VideoPlayer'; // Import the VideoPlayer component
 
 const App: React.FC = () => {
   return (
